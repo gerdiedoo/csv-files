@@ -1,0 +1,78 @@
+Filename,quicksort,mergesort,selectionsort,insertionsort,bubblesort,linearsearch,binarysearch,linkedlist,hashmap
+AmericanFlagSort.java,0,0,0,0,0,0,0,0,0
+BaseSort.java,0,0,0,0,0,0,0,0,0
+BeadSort (2).java,0,0,0,0,0,0,0,0,0
+BeadSort.java,0,0,0,0,0,0,0,0,0
+bitonic_sort.java,0,0,0,0,0,0,0,0,0
+bitonic_sort.py,0,0,0,0,0,0,0,0,0
+BitonicSort (2).java,0,0,0,0,0,0,0,0,0
+BitonicSort (3).java,0,0,0,0,0,0,0,0,0
+BitonicSort (3).py,0,0,0,0,0,0,0,0,0
+BitonicSort (4).java,0,0,0,0,0,0,0,0,0
+bitonicSort.js,0,0,0,0,0,0,0,0,0
+bogo_sort (2).py,0,0,0,0,0,0,0,0,0
+bogo_sort.java,0,0,0,0,0,0,0,0,0
+Bogo_Sort.py,0,0,0,0,0,0,0,0,0
+BogoPermutationSort.py,0,0,0,0,0,0,0,0,0
+BogoSort (2).java,0,0,0,0,0,0,0,0,0
+bogoSort (2).js,0,0,0,0,0,0,0,0,0
+bogosort.js,0,0,0,0,0,0,0,0,0
+BottomUpHeapsort.java,0,0,0,0,0,0,0,0,0
+BottomUpHeapsortSlowComparisons.java,0,0,0,0,0,0,0,0,0
+brick_sort.py,0,0,0,0,0,0,0,0,0
+brickSort.js,0,0,0,0,0,0,0,0,0
+bucket_sort (2).py,0,0,0,0,0,0,0,0,0
+Bucket_Sort.java,0,0,0,0,0,0,0,0,0
+BucketSort (10).java,0,0,0,0,0,0,0,0,0
+bucketSort (11).java,0,0,0,0,0,0,0,0,0
+BucketSort (2).java,0,0,0,0,0,0,0,0,0
+BucketSort (7).java,0,0,0,0,0,0,0,0,0
+BucketSort (8).java,0,0,0,1,0,0,0,0,0
+BucketSort (9).java,0,0,0,1,0,0,0,0,0
+BucketSort.js,0,0,0,1,0,0,0,0,0
+BucketSort.py,0,0,0,0,0,0,0,0,0
+Challenge3.java,0,0,0,0,0,0,0,0,0
+CocktailShakerSort (2).java,0,0,0,0,0,0,0,0,0
+counting_sort (2).py,0,0,0,0,0,0,0,0,0
+counting_sort (3).py,0,0,0,0,0,0,0,0,0
+counting_sort (4).py,0,0,0,0,0,0,0,0,0
+counting_sort (5).py,0,0,0,0,0,0,0,0,0
+cyclesort (5).py,0,0,0,0,0,0,0,0,0
+CycleSort (7).java,0,0,0,0,0,0,0,0,0
+cyclesort (7).py,0,0,0,0,0,0,0,0,0
+cycleSort.js,0,0,0,0,0,0,0,0,0
+FactorialByR.java,0,0,0,0,0,0,0,0,0
+FatefulSort.java,0,0,0,0,0,0,0,0,0
+gnome_sort (2).py,0,0,0,0,0,0,0,0,0
+GnomeSort (13).java,0,0,0,0,0,0,0,0,0
+gnomeSort (14).java,0,0,0,0,0,0,0,0,0
+GnomeSort (15).java,0,0,0,0,0,0,0,0,0
+GnomeSort (2).java,0,0,0,0,0,0,0,0,0
+gnomeSort (2).py,0,0,0,0,0,0,0,0,0
+GnomeSort (3).java,0,0,0,0,0,0,0,0,0
+HeapSort (2).java,0,0,0,0,0,0,0,0,0
+HeapSort (2).js,0,0,0,0,0,0,0,0,0
+HeapSort (2).py,0,0,0,0,0,0,0,0,0
+HeapSort (3).java,0,0,0,0,0,0,0,0,0
+HeapSort (3).js,0,0,0,0,0,0,0,0,0
+HeapSort (3).py,0,0,0,0,0,0,0,0,0
+HeapSort (4).java,0,0,0,0,0,0,0,0,0
+heapSort (4).js,0,0,0,0,0,0,0,0,0
+IndexMaxPQ.java,0,0,0,0,0,0,0,0,0
+IntroSort (2).java,0,0,0,0,0,0,0,0,0
+KahnsTopologicalSort.js,0,0,0,0,0,0,0,0,0
+LampSort.java,0,0,0,0,0,0,0,0,0
+MaxHeap.java,0,0,0,0,0,0,0,0,0
+MiddleShift.js,0,0,0,0,0,0,0,0,0
+OddEvenSort (2).java,0,0,0,0,0,0,0,0,0
+OddEvenSort (3).java,0,0,0,0,0,0,0,0,0
+oddEvenSort (4).java,0,0,0,0,0,0,0,0,0
+OddEvenSort (5).java,0,0,0,0,0,0,0,0,0
+OddEvenSort (6).java,0,0,0,0,0,0,0,0,0
+Pancake Sort (2).py,0,0,0,0,0,0,0,0,0
+Pancake Sort.py,0,0,0,0,0,0,0,0,0
+pancake_sort (2).py,0,0,0,0,0,0,0,0,0
+pancake_sort (3).py,0,0,0,0,0,0,0,0,0
+pancake_sort (4).py,0,0,0,0,0,0,0,0,0
+pancake_sort.js,0,0,0,0,0,0,0,0,0
+pancake_sort.py,0,0,0,0,0,0,0,0,0

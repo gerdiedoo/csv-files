@@ -1,0 +1,157 @@
+Filename,quicksort,mergesort,selectionsort,insertionsort,bubblesort,linearsearch,binarysearch,linkedlist,hashmap
+allSorts.java,1,1,1,1,1,0,0,0,0
+allsorts.py,1,1,1,1,1,0,0,0,0
+BenchmarkingSortingAlgorithms.java,1,1,1,1,1,0,0,0,0
+Heap.java,0,0,0,0,0,0,0,0,0
+HeapSortClass.java,0,0,0,0,0,0,0,0,0
+index.js,0,0,1,0,0,0,0,0,0
+jssort.js,1,1,1,1,0,0,0,0,0
+main (2).py,0,0,1,0,0,0,0,0,0
+main (3).py,1,0,1,1,1,0,0,0,0
+main (4).py,1,1,1,1,1,0,0,0,0
+main.py,0,1,0,1,0,0,0,0,0
+PySortAlgos.py,1,1,1,1,1,0,0,0,0
+QuickSelect.java,0,0,0,0,0,0,0,0,0
+recursiveSelectionSort.java,0,0,1,0,0,0,0,0,0
+Selection (2).java,0,0,1,0,0,0,0,0,0
+selection (2).py,0,0,1,0,0,0,0,0,0
+Selection (3).java,0,0,1,0,0,0,0,0,0
+selection (3).py,0,0,1,0,0,0,0,0,0
+Selection (4).java,0,0,1,0,0,0,0,0,0
+Selection Sort.java,0,0,1,0,0,0,0,0,0
+selection sort.py,0,0,1,0,0,0,0,0,0
+Selection.java,0,0,1,0,0,0,0,0,0
+selection.py,0,0,1,0,0,0,0,0,0
+selection_sort (10).py,0,0,1,0,0,0,0,0,0
+Selection_sort (11).py,0,0,1,0,0,0,0,0,0
+selection_sort (13).py,0,0,1,0,0,0,0,0,0
+selection_sort (14).py,0,0,1,0,0,0,0,0,0
+selection_sort (16).py,0,0,1,0,0,0,0,0,0
+selection_sort (18).py,0,0,1,0,0,0,0,0,0
+Selection_Sort (2).java,0,0,1,0,0,0,0,0,0
+selection_sort (2).py,0,0,1,0,0,0,0,0,0
+selection_sort (3).java,0,0,1,0,0,0,0,0,0
+selection_sort (3).py,0,0,1,0,0,0,0,0,0
+selection_sort (4).java,0,0,1,0,0,0,0,0,0
+selection_sort (4).py,0,0,1,0,0,0,0,0,0
+Selection_Sort (5).java,0,0,1,0,0,0,0,0,0
+selection_sort (5).py,0,0,1,0,0,0,0,0,0
+selection_sort (6).py,0,0,1,0,0,0,0,0,0
+selection_sort (7).py,0,0,1,0,0,0,0,0,0
+Selection_Sort (8).py,0,0,1,0,0,0,0,0,0
+selection_sort (9).py,0,0,1,0,0,0,0,0,0
+selection_sort.js,0,0,1,0,0,0,0,0,0
+selection_sort.py,0,0,1,0,0,0,0,0,0
+Selection+Insertion-Sort.java,0,0,1,1,0,0,0,0,0
+SelectionSort (10).java,0,0,1,0,0,0,0,0,0
+selectionSort (10).js,0,0,1,0,0,0,0,0,0
+SelectionSort (10).py,0,0,1,0,0,0,0,0,0
+SelectionSort (11).java,0,0,1,0,0,0,0,0,0
+SelectionSort (11).py,0,0,1,0,0,0,0,0,0
+SelectionSort (12).java,0,0,1,0,0,0,0,0,0
+selectionSort (12).py,0,0,1,0,0,0,0,0,0
+SelectionSort (13).java,0,0,1,0,0,0,0,0,0
+SelectionSort (13).py,0,0,1,0,0,0,0,0,0
+SelectionSort (14).java,0,0,1,0,0,0,0,0,0
+SelectionSort (14).py,0,0,1,0,0,0,0,0,0
+SelectionSort (15).java,0,0,1,0,0,0,0,0,0
+SelectionSort (15).py,0,0,1,0,0,0,0,0,0
+SelectionSort (16).java,0,0,1,0,0,0,0,0,0
+selectionsort (16).py,0,0,1,0,0,0,0,0,0
+SelectionSort (17).java,0,0,1,0,0,0,0,0,0
+selectionSort (17).py,0,0,1,0,0,0,0,0,0
+selectionSort (18).java,0,0,1,0,0,0,0,0,0
+selectionSort (18).py,0,0,1,0,0,0,0,0,0
+SelectionSort (19).java,0,0,1,0,0,0,0,0,0
+SelectionSort (2).java,0,0,1,0,0,0,0,0,0
+selectionSort (2).js,0,0,1,0,0,0,0,0,0
+selection-sort (2).js,0,0,1,0,0,0,0,0,0
+SelectionSort (2).py,0,0,1,0,0,0,0,0,0
+SelectionSort (20).java,0,0,1,0,0,0,0,0,0
+SelectionSort (21).java,0,0,1,0,0,0,0,0,0
+SelectionSort (22).java,0,0,1,0,0,0,0,0,0
+SelectionSort (23).java,0,0,1,0,0,0,0,0,0
+SelectionSort (24).java,0,0,1,0,0,0,0,0,0
+SelectionSort (25).java,0,0,1,0,0,0,0,0,0
+SelectionSort (26).java,0,0,1,0,0,0,0,0,0
+SelectionSort (27).java,0,0,1,0,0,0,0,0,0
+SelectionSort (28).java,0,0,1,0,0,0,0,0,0
+SelectionSort (29).java,0,0,1,0,0,0,0,0,0
+SelectionSort (3).java,0,0,1,0,0,0,0,0,0
+selectionSort (3).js,0,0,1,0,0,0,0,0,0
+selection-sort (3).js,0,0,1,0,0,0,0,0,0
+SelectionSort (3).py,0,0,1,0,0,0,0,0,0
+SelectionSort (30).java,0,0,1,0,0,0,0,0,0
+SelectionSort (31).java,0,0,1,0,0,0,0,0,0
+SelectionSort (33).java,0,0,1,0,0,0,0,0,0
+SelectionSort (34).java,0,0,1,0,0,0,0,0,0
+SelectionSort (35).java,0,0,1,0,0,0,0,0,0
+selectionSort (36).java,0,0,1,0,0,0,0,0,0
+SelectionSort (37).java,0,0,1,0,0,0,0,0,0
+SelectionSort (38).java,0,0,1,0,0,0,0,0,0
+SelectionSort (4).java,0,0,1,0,0,0,0,0,0
+selectionSort (4).js,0,0,1,0,0,0,0,0,0
+selection-sort (4).js,0,0,1,0,0,0,0,0,0
+SelectionSort (4).py,0,0,1,0,0,0,0,0,0
+SelectionSort (41).java,0,0,1,0,0,0,0,0,0
+SelectionSort (43).java,0,0,1,0,0,0,0,0,0
+SelectionSort (44).java,0,0,1,0,0,0,0,0,0
+SelectionSort (45).java,0,0,1,0,0,0,0,0,0
+selectionSort (46).java,0,0,1,0,0,0,0,0,0
+SelectionSort (47).java,0,0,1,0,0,0,0,0,0
+SelectionSort (48).java,0,0,1,0,0,0,0,0,0
+SelectionSort (49).java,0,0,1,0,0,0,0,0,0
+SelectionSort (5).js,0,0,1,0,0,0,0,0,0
+selection-sort (5).js,0,0,1,0,0,0,0,0,0
+SelectionSort (5).py,0,0,1,0,0,0,0,0,0
+SelectionSort (50).java,0,0,1,0,0,0,0,0,0
+SelectionSort (51).java,0,0,1,0,0,0,0,0,0
+SelectionSort (53).java,0,0,1,0,0,0,0,0,0
+SelectionSort (54).java,0,0,1,0,0,0,0,0,0
+SelectionSort (56).java,0,0,1,0,0,0,0,0,0
+SelectionSort (57).java,0,0,1,0,0,0,0,0,0
+SelectionSort (58).java,0,0,1,0,0,0,0,0,0
+SelectionSort (59).java,0,0,1,0,0,0,0,0,0
+SelectionSort (6).java,0,0,1,0,0,0,0,0,0
+selectionSort (6).js,0,0,1,0,0,0,0,0,0
+selection-sort (6).js,0,0,1,0,0,0,0,0,0
+selectionSort (6).py,0,0,1,0,0,0,0,0,0
+SelectionSort (60).java,0,0,1,0,0,0,0,0,0
+SelectionSort (61).java,0,0,1,0,0,0,0,0,0
+SelectionSort (7).java,0,0,1,0,0,0,0,0,0
+selectionSort (7).js,0,0,1,0,0,0,0,0,0
+selection-sort (7).js,0,0,1,0,0,0,0,0,0
+selectionSort (7).py,0,0,1,0,0,0,0,0,0
+SelectionSort (8).java,0,0,1,0,0,0,0,0,0
+selectionsort (8).js,0,0,1,0,0,0,0,0,0
+selectionsort (8).py,0,0,1,0,0,0,0,0,0
+SelectionSort (9).java,0,0,1,0,0,0,0,0,0
+SelectionSort (9).py,0,0,1,0,0,0,0,0,0
+selection-sort.es6.js,0,0,1,0,0,0,0,0,0
+SelectionSort.java,0,0,1,0,0,0,0,0,0
+selectionsort.js,0,0,1,0,0,0,0,0,0
+selection-sort.js,0,0,1,0,0,0,0,0,0
+selectionsort.py,0,0,1,0,0,0,0,0,0
+selection-sort.py,0,0,1,0,0,0,0,0,0
+selection-sort-counters.es6.js,0,0,1,0,0,0,0,0,0
+selection-sort-counters.js,0,0,1,0,0,0,0,0,0
+SelectionSorter.java,0,0,1,0,0,0,0,0,0
+SelectionSort-Javascript.js,0,0,1,0,0,0,0,0,0
+sort (2).java,0,0,1,1,1,0,0,0,0
+sort (2).js,1,1,1,1,1,0,0,0,0
+sort (2).py,1,1,1,1,1,0,0,0,0
+Sort (3).java,0,0,1,1,1,0,0,0,0
+sort.js,0,1,1,1,0,0,0,0,0
+sort.py,0,1,1,0,0,0,0,0,0
+SortComparison.java,1,1,1,1,1,0,0,0,0
+sortem.js,1,1,1,1,1,0,0,0,0
+Sorting (2).java,0,0,0,1,0,0,0,0,0
+sorting (2).py,0,0,1,0,1,0,0,0,0
+sorting (3).py,1,0,0,0,1,0,0,0,0
+sorting.py,0,0,1,1,1,0,0,0,0
+sorting_algorithms.py,1,1,0,1,0,0,0,0,0
+sorting2.py,0,0,0,0,0,0,0,0,0
+sortingAlgorithms (3).java,1,1,1,1,1,0,0,0,0
+SortingAlgorithms.java,1,1,0,1,1,0,0,0,0
+sortlib.py,1,1,1,1,1,0,0,0,0
+StringSort+SelectionSort.java,0,0,1,0,0,0,0,0,0

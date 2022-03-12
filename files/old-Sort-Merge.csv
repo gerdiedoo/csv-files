@@ -1,0 +1,173 @@
+Filename,quicksort,mergesort,selectionsort,insertionsort,bubblesort,linearsearch,binarysearch,linkedlist,hashmap
+Challenge1.java,0,1,0,0,0,0,0,0,0
+ConcurrentMergeSort.java,0,0,0,0,0,0,0,0,0
+ConcurrentMergeSortTask.java,0,1,0,0,0,0,0,0,0
+InPlaceMergeSort (2).java,0,0,0,0,0,0,0,0,0
+InPlaceMergeSort.java,0,1,0,0,0,0,0,0,0
+iterative merge sort.py,0,1,0,0,0,0,0,0,0
+iterative_merge_sort.py,0,1,0,0,0,0,0,0,0
+IterativeMergeSort.java,0,1,0,0,0,0,0,0,0
+main (2).py,0,1,0,0,0,0,0,0,0
+main.py,0,1,0,0,0,0,0,0,0
+MaxValue.java,0,0,0,0,0,0,0,0,0
+Merge (2).java,0,1,0,0,0,0,0,0,0
+merge (2).py,0,1,0,0,0,0,0,0,0
+Merge (3).java,0,1,0,0,0,0,0,0,0
+Merge (4).java,0,1,0,0,0,0,0,0,0
+Merge Sort.java,0,1,0,0,0,0,0,0,0
+Merge.java,0,1,0,0,0,0,0,0,0
+merge.js,0,1,0,0,0,0,0,0,0
+merge.py,0,1,0,0,0,0,0,0,0
+merge_in_place.py,0,1,0,0,0,0,0,0,0
+merge_sort (10).py,0,1,0,0,0,0,0,0,0
+merge_sort (11).py,0,1,0,0,0,0,0,0,0
+merge_sort (12).py,0,1,0,0,0,0,0,0,0
+merge_sort (13).py,0,1,0,0,0,0,0,0,0
+merge_sort (14).py,0,1,0,0,0,0,0,0,0
+Merge_sort (15).py,0,1,0,0,0,0,0,0,0
+merge_sort (17).py,0,1,0,0,0,0,0,0,0
+merge_sort (18).py,0,1,0,0,0,0,0,0,0
+merge_sort (19).py,0,1,0,0,0,0,0,0,0
+merge_sort (2).java,0,1,0,0,0,0,0,0,0
+merge_sort (2).py,0,1,0,0,0,0,0,0,0
+merge_sort (21).py,0,1,0,0,0,0,0,0,0
+merge_sort (22).py,0,1,0,0,0,0,0,0,0
+merge_sort (23).py,0,1,0,0,0,0,0,0,0
+merge_sort (24).py,0,1,0,0,0,0,0,0,0
+Merge_Sort (3).java,0,1,0,0,0,0,0,0,0
+merge_sort (4).py,0,1,0,0,0,0,0,0,0
+merge_sort (5).py,0,1,0,0,0,0,0,0,0
+merge_sort (6).py,0,1,0,0,0,0,0,0,0
+merge_sort (7).py,0,1,0,0,0,0,0,0,0
+merge_sort (8).py,0,1,0,0,0,0,0,0,0
+merge_sort (9).py,0,1,0,0,0,0,0,0,0
+Merge_Sort.java,0,1,0,0,0,0,0,0,0
+merge_sort.js,0,1,0,0,0,0,0,0,0
+merge_sort.py,0,1,0,0,0,0,0,0,0
+merge_sort_fastest (4).py,0,1,0,0,0,0,0,0,0
+merge_sort_fastest.py,0,1,0,0,0,0,0,0,0
+MergeBU.java,0,1,0,0,0,0,0,0,0
+MergeSort (10).java,0,1,0,0,0,0,0,0,0
+mergeSort (10).js,0,1,0,0,0,0,0,0,0
+mergeSort (10).py,0,1,0,0,0,0,0,0,0
+MergeSort (11).java,0,1,0,0,0,0,0,0,0
+mergeSort (11).js,0,1,0,0,0,0,0,0,0
+mergesort (11).py,0,1,0,0,0,0,0,0,0
+MergeSort (12).java,0,1,0,0,0,0,0,0,0
+mergeSort (12).js,0,1,0,0,0,0,0,0,0
+mergeSort (12).py,0,1,0,0,0,0,0,0,0
+MergeSort (13).java,0,1,0,0,0,0,0,0,0
+MergeSort (13).js,0,1,0,0,0,0,0,0,0
+MergeSort (13).py,0,1,0,0,0,0,0,0,0
+MergeSort (14).java,0,1,0,0,0,0,0,0,0
+mergesort (14).js,0,1,0,0,0,0,0,0,0
+MergeSort (14).py,0,1,0,0,0,0,0,0,0
+MergeSort (15).java,0,1,0,0,0,0,0,0,0
+mergeSort (15).js,0,1,0,0,0,0,0,0,0
+MergeSort (15).py,0,1,0,0,0,0,0,0,0
+MergeSort (16).java,0,1,0,0,0,0,0,0,0
+mergeSort (16).py,0,1,0,0,0,0,0,0,0
+MergeSort (17).java,0,1,0,0,0,0,0,0,0
+mergesort (17).py,0,1,0,0,0,0,0,0,0
+MergeSort (18).java,0,1,0,0,0,0,0,0,0
+MergeSort (18).py,0,1,0,0,0,0,0,0,0
+mergeSort (19).java,0,1,0,0,0,0,0,0,0
+MergeSort (19).py,0,1,0,0,0,0,0,0,0
+MergeSort (2).java,0,1,0,0,0,0,0,0,0
+mergesort (2).js,0,1,0,0,0,0,0,0,0
+merge-sort (2).js,0,1,0,0,0,0,0,0,0
+MergeSort (2).py,0,1,0,0,0,0,0,0,0
+MergeSort (20).java,0,1,0,0,0,0,0,0,0
+MergeSort (20).py,0,1,0,0,0,0,0,0,0
+MergeSort (21).java,0,1,0,0,0,0,0,0,0
+mergesort (21).py,0,1,0,0,0,0,0,0,0
+MergeSort (22).java,0,1,0,0,0,0,0,0,0
+mergesort (22).py,0,1,0,0,0,0,0,0,0
+MergeSort (23).java,0,1,0,0,0,0,0,0,0
+mergesort (23).py,0,1,0,0,0,0,0,0,0
+MergeSort (24).java,0,1,0,0,0,0,0,0,0
+MergeSort (24).py,0,1,0,0,0,0,0,0,0
+MergeSort (25).java,0,1,0,0,0,0,0,0,0
+mergeSort (25).py,0,1,0,0,0,0,0,0,0
+MergeSort (26).java,0,1,0,0,0,0,0,0,0
+mergeSort (26).py,0,1,0,0,0,0,0,0,0
+MergeSort (27).java,0,1,0,0,0,0,0,0,0
+MergeSort (28).java,0,1,0,0,0,0,0,0,0
+MergeSort (29).java,0,1,0,0,0,0,0,0,0
+MergeSort (3).java,0,1,0,0,0,0,0,0,0
+mergeSort (3).js,0,1,0,0,0,0,0,0,0
+merge-sort (3).js,0,1,0,0,0,0,0,0,0
+MergeSort (3).py,0,1,0,0,0,0,0,0,0
+MergeSort (30).java,0,1,0,0,0,0,0,0,0
+MergeSort (31).java,0,1,0,0,0,0,0,0,0
+MergeSort (32).java,0,1,0,0,0,0,0,0,0
+MergeSort (35).java,0,1,0,0,0,0,0,0,0
+MergeSort (36).java,0,1,0,0,0,0,0,0,0
+mergeSort (37).java,0,1,0,0,0,0,0,0,0
+MergeSort (38).java,0,1,0,0,0,0,0,0,0
+MergeSort (39).java,0,1,0,0,0,0,0,0,0
+MergeSort (4).java,0,1,0,0,0,0,0,0,0
+mergeSort (4).js,0,1,0,0,0,0,0,0,0
+merge-sort (4).js,0,1,0,0,0,0,0,0,0
+MergeSort (4).py,0,1,0,0,0,0,0,0,0
+MergeSort (41).java,0,1,0,0,0,0,0,0,0
+MergeSort (42).java,0,1,0,0,0,0,0,0,0
+MergeSort (44).java,0,1,0,0,0,0,0,0,0
+MergeSort (45).java,0,1,0,0,0,0,0,0,0
+MergeSort (46).java,0,1,0,0,0,0,0,0,0
+MergeSort (47).java,0,1,0,0,0,0,0,0,0
+MergeSort (48).java,0,1,0,0,0,0,0,0,0
+MergeSort (49).java,0,0,0,0,0,0,0,0,0
+MergeSort (5).java,0,1,0,0,0,0,0,0,0
+mergeSort (5).js,0,1,0,0,0,0,0,0,0
+mergesort (5).py,0,1,0,0,0,0,0,0,0
+MergeSort (50).java,0,1,0,0,0,0,0,0,0
+MergeSort (51).java,0,1,0,0,0,0,0,0,0
+mergesort (52).java,0,1,0,0,0,0,0,0,0
+MergeSort (53).java,0,1,0,0,0,0,0,0,0
+MergeSort (54).java,0,1,0,0,0,0,0,0,0
+MergeSort (55).java,0,1,0,0,0,0,0,0,0
+MergeSort (57).java,0,1,0,0,0,0,0,0,0
+MergeSort (58).java,0,1,0,0,0,0,0,0,0
+Mergesort (59).java,0,1,0,0,0,0,0,0,0
+MergeSort (6).java,0,1,0,0,0,0,0,0,0
+merge-sort (6).js,0,1,0,0,0,0,0,0,0
+mergesort (6).py,0,1,0,0,0,0,0,0,0
+MergeSort (60).java,0,1,0,0,0,0,0,0,0
+MergeSort (61).java,0,1,0,0,0,0,0,0,0
+MergeSort (62).java,0,1,0,0,0,0,0,0,0
+MergeSort (7).java,0,1,0,0,0,0,0,0,0
+merge-sort (7).js,0,1,0,0,0,0,0,0,0
+mergesort (7).py,0,1,0,0,0,0,0,0,0
+MergeSort (8).java,0,1,0,0,0,0,0,0,0
+mergeSort (8).js,0,1,0,0,0,0,0,0,0
+MergeSort (8).py,0,1,0,0,0,0,0,0,0
+MergeSort (9).java,0,1,0,0,0,0,0,0,0
+mergeSort (9).js,0,1,0,0,0,0,0,0,0
+MergeSort (9).py,0,1,0,0,0,0,0,0,0
+merge-sort.es6.js,0,1,0,0,0,0,0,0,0
+MergeSort.java,0,1,0,0,0,0,0,0,0
+mergesort.js,0,1,0,0,0,0,0,0,0
+merge-sort.js,0,1,0,0,0,0,0,0,0
+mergesort.py,0,1,0,0,0,0,0,0,0
+MergeSort2.java,0,1,0,0,0,0,0,0,0
+mergesort2.py,0,1,0,0,0,0,0,0,0
+MergeSort3.java,0,1,0,0,0,0,0,0,0
+MergeSortAny (2).java,0,1,0,0,0,0,0,0,0
+MergeSortArrayList.java,0,1,0,0,0,0,0,0,0
+MergeSortBottomUp.java,0,1,0,0,0,0,0,0,0
+MergeSortClassTest.java,0,0,0,0,0,0,0,0,0
+merge-sort-counters.es6.js,0,1,0,0,0,0,0,0,0
+MergeSorter (2).java,0,1,0,0,0,0,0,0,0
+MergeSorter.java,0,1,0,0,0,0,0,0,0
+MergeSortIntegerTest.java,0,0,0,0,0,0,0,0,0
+MergeSortIterative.java,0,1,0,0,0,0,0,0,0
+MergeSortNatural.java,0,1,0,0,0,0,0,0,0
+MergeSortRecursive.java,0,1,0,0,0,0,0,0,0
+MergeSortRecursive.js,0,1,0,0,0,0,0,0,0
+mergev2sort.js,0,1,0,0,0,0,0,0,0
+NaturalMergeSort.java,0,1,0,0,0,0,0,0,0
+RotationMergeSort.java,0,1,0,0,0,0,0,0,0
+Sort.java,0,1,0,0,0,0,0,0,0
+SortedMerge.java,0,1,0,0,0,0,0,0,0
+ThreeWayMergeSort-Java.java,0,1,0,0,0,0,0,0,0

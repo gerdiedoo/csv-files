@@ -1,0 +1,76 @@
+Filename,quicksort,mergesort,selectionsort,insertionsort,bubblesort,linearsearch,binarysearch,linkedlist,hashmap
+Array.java,0,0,0,0,1,1,1,0,0
+arraySearch.js,0,0,0,0,0,1,1,0,0
+FirstFitRoom.java,0,0,0,0,0,1,0,0,0
+Java_Linear_Search_11.java,0,0,0,0,0,1,0,0,0
+java-linear-search.java,0,0,0,0,0,1,0,0,0
+java-linear-search-10.java,0,0,0,0,0,0,0,0,0
+java-linear-search-12.java,0,0,0,0,0,1,0,0,0
+java-linear-search-13.java,0,0,0,0,0,1,0,0,0
+java-linear-search-2.java,0,0,0,0,0,1,0,0,0
+JavaLinearSearch3.java,0,0,0,0,0,1,0,0,0
+JAVA-linearSearch3.java,0,0,0,0,0,1,0,0,0
+java-linear-search-3.java,0,0,0,0,0,1,0,0,0
+Java-Linear-Search-4.java,0,0,0,0,0,0,0,0,0
+java-linear-search-5.java,0,0,0,0,0,1,0,0,0
+java-linear-search-7.java,0,0,0,0,0,1,0,0,0
+java-linear-search-8.java,0,0,0,0,0,1,0,0,0
+java-linear-serach-3.java,0,0,0,0,0,1,0,0,0
+javascript-linear-search.js,0,0,0,0,0,1,0,0,0
+javascript-linear-search-2.js,0,0,0,0,0,1,0,0,0
+Linear Search.java,0,0,0,0,0,1,0,0,0
+linear.py,0,0,0,0,0,1,0,0,0
+linear_search (2).java,0,0,0,0,0,1,0,0,0
+linear_search (2).py,0,0,0,0,0,1,0,0,0
+Linear_Search (3).java,0,0,0,0,0,1,0,0,0
+linear_search (5).py,0,0,0,0,0,1,0,0,0
+linear_search (6).py,0,0,0,0,0,1,0,0,0
+linear_search.js,0,0,0,0,0,1,0,0,0
+linear_search.py,0,0,0,0,0,1,0,0,0
+linear_search_with_sentinel.py,0,0,0,0,0,1,0,0,0
+LinearSearch (10).java,0,0,0,0,0,1,0,0,0
+LinearSearch (11).java,0,0,0,0,0,1,0,0,0
+LinearSearch (12).java,0,0,0,0,0,1,0,0,0
+LinearSearch (13).java,0,0,0,0,0,1,0,0,0
+LinearSearch (14).java,0,0,0,0,0,1,0,0,0
+LinearSearch (16).java,0,0,0,0,0,1,0,0,0
+LinearSearch (17).java,0,0,0,0,0,1,0,0,0
+LinearSearch (18).java,0,0,0,0,0,1,0,0,0
+LinearSearch (2).js,0,0,0,0,0,1,0,0,0
+LinearSearch (2).py,0,0,0,0,0,1,0,0,0
+LinearSearch (20).java,0,0,0,0,0,1,0,0,0
+linearSearch (3).js,0,0,0,0,0,1,0,0,0
+LinearSearch (4).java,0,0,0,0,0,1,0,0,0
+LinearSearch (4).js,0,0,0,0,0,1,0,0,0
+linearSearch (6).java,0,0,0,0,0,1,0,0,0
+LinearSearch (7).java,0,0,0,0,0,1,0,0,0
+LinearSearch (9).java,0,0,0,0,0,1,0,0,0
+LinearSearch.java,0,0,0,0,0,1,0,0,0
+linearSearch.js,0,0,0,0,0,1,0,0,0
+LinearSearch.py,0,0,0,0,0,1,0,0,0
+Main.java,0,0,0,0,0,0,0,0,0
+MyLinearSearch.java,0,0,0,0,0,1,0,0,0
+OrderedArray.java,0,0,0,0,0,0,0,0,0
+Python (2).py,0,0,0,0,0,1,0,0,0
+python3-linear-search.py,0,0,0,0,0,1,0,0,0
+python3-linear-search-2.py,0,0,0,0,0,1,0,0,0
+python3-linear-search-3.py,0,0,0,0,0,0,0,0,0
+python3-linear-search-4.py,0,0,0,0,0,1,0,0,0
+python3-linear-search-5.py,0,0,0,0,0,1,0,0,0
+python3-linear-search-6.py,0,0,0,0,0,1,0,0,0
+python-linear-search.py,0,0,0,0,0,1,0,0,0
+python-linear-search-2.py,0,0,0,0,0,1,0,0,0
+QuickSelect.java,0,0,0,0,0,0,0,0,0
+SaddlebackSearch (4).java,0,0,0,0,0,0,0,0,0
+Search (2).java,0,0,0,0,0,1,1,0,0
+Search (3).java,0,0,0,0,0,1,1,0,0
+Search (4).java,0,0,0,0,0,0,0,0,0
+Search.java,0,0,0,0,0,1,1,0,0
+searchMatrix.java,0,0,0,0,0,1,0,0,0
+searchMatrix2.java,0,0,0,0,0,1,0,0,0
+searchMatrix3.java,0,0,0,0,0,1,0,0,0
+sentinel_linear_search.py,0,0,0,0,0,1,0,0,0
+SequentialSearchST.java,0,0,0,0,0,1,0,1,0
+stringPatternSearch.js,0,0,0,0,0,1,0,0,0
+UnorderedArray.java,0,0,0,0,0,1,0,0,0
+WordCounter.java,0,0,0,0,0,0,0,0,0

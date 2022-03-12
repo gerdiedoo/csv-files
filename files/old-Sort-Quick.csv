@@ -1,0 +1,174 @@
+Filename,quicksort,mergesort,selectionsort,insertionsort,bubblesort,linearsearch,binarysearch,linkedlist,hashmap
+ConcurrentQuickSort.java,0,0,0,0,0,0,0,0,0
+ConcurrentQuickSortTask.java,1,0,0,0,0,0,0,0,0
+DualPivotQuickSort (2).java,1,0,0,0,0,0,0,0,0
+DualPivotQuicksort.java,1,0,0,0,0,0,0,0,0
+DualPivotQuicksortImproved.java,1,0,0,0,0,0,0,0,0
+index.js,0,0,0,0,0,0,0,0,0
+LPQuickSort.java,1,0,0,0,0,0,0,0,0
+main.py,1,0,0,0,0,0,0,0,0
+mkqsort.py,1,0,0,0,0,0,0,0,0
+MyClass.java,1,0,0,0,0,0,0,0,0
+optimized_quick_sort.py,1,0,0,0,0,0,0,0,0
+ParallelLPQuickSort.java,1,0,0,0,0,0,0,0,0
+PivotHelper.java,0,0,0,0,0,0,0,0,0
+PivotStrategy.java,0,0,0,0,0,0,0,0,0
+Quick (2).java,1,0,0,0,0,0,0,0,0
+quick (2).py,1,0,0,0,0,0,0,0,0
+Quick (3).java,1,0,0,0,0,0,0,0,0
+Quick (4).java,1,0,0,0,0,0,0,0,0
+Quick (5).java,1,0,0,0,0,0,0,0,0
+quick sort.py,0,0,0,0,0,0,0,0,0
+Quick.java,1,0,0,0,0,0,0,0,0
+quick.py,1,0,0,0,0,0,0,0,0
+quick_sort (10).py,1,0,0,0,0,0,0,0,0
+quick_sort (11).py,1,0,0,0,0,0,0,0,0
+quick_sort (12).py,1,0,0,0,0,0,0,0,0
+Quick_sort (14).py,1,0,0,0,0,0,0,0,0
+quick_sort (15).py,1,0,0,0,0,0,0,0,0
+quick_sort (16).py,1,0,0,0,0,0,0,0,0
+quick_sort (17).py,1,0,0,0,0,0,0,0,0
+quick_sort (19).py,1,0,0,0,0,0,0,0,0
+Quick_Sort (2).java,1,0,0,0,0,0,0,0,0
+quick_sort (2).py,1,0,0,0,0,0,0,0,0
+quick_sort (20).py,1,0,0,0,0,0,0,0,0
+quick_sort (3).java,1,0,0,0,0,0,0,0,0
+quick_sort (3).py,1,0,0,0,0,0,0,0,0
+quick_sort (4).java,1,0,0,0,0,0,0,0,0
+quick_sort (4).py,1,0,0,0,0,0,0,0,0
+Quick_Sort (5).java,1,0,0,0,0,0,0,0,0
+quick_sort (5).py,1,0,0,0,0,0,0,0,0
+quick_sort (6).py,1,0,0,0,0,0,0,0,0
+quick_sort (7).py,1,0,0,0,0,0,0,0,0
+quick_sort (8).py,1,0,0,0,0,0,0,0,0
+quick_sort (9).py,1,0,0,0,0,0,0,0,0
+quick_sort.js,1,0,0,0,0,0,0,0,0
+quick_sort.py,1,0,0,0,0,0,0,0,0
+quick_sort_3_partition (4).py,1,0,0,0,0,0,0,0,0
+Quick3Way.java,1,0,0,0,0,0,0,0,0
+QuickSort (10).java,1,0,0,0,0,0,0,0,0
+quickSort (10).js,1,0,0,0,0,0,0,0,0
+quickSort (10).py,1,0,0,0,0,0,0,0,0
+QuickSort (11).java,1,0,0,0,0,0,0,0,0
+quicksort (11).js,1,0,0,0,0,0,0,0,0
+quicksort (11).py,1,0,0,0,0,0,0,0,0
+QuickSort (12).java,1,0,0,0,0,0,0,0,0
+quickSort (12).js,1,0,0,0,0,0,0,0,0
+QuickSort (12).py,1,0,0,0,0,0,0,0,0
+QuickSort (13).java,1,0,0,0,0,0,0,0,0
+Quicksort (13).js,1,0,0,0,0,0,0,0,0
+quicksort (13).py,1,0,0,0,0,0,0,0,0
+QuickSort (14).java,1,0,0,0,0,0,0,0,0
+quickSort (14).py,1,0,0,0,0,0,0,0,0
+QuickSort (15).java,1,0,0,0,0,0,0,0,0
+QuickSort (15).py,1,0,0,0,0,0,0,0,0
+Quicksort (16).java,1,0,0,0,0,0,0,0,0
+QuickSort (16).py,1,0,0,0,0,0,0,0,0
+QuickSort (17).java,1,0,0,0,0,0,0,0,0
+QuickSort (17).py,1,0,0,0,0,0,0,0,0
+quickSort (18).java,1,0,0,0,0,0,0,0,0
+QuickSort (18).py,1,0,0,0,0,0,0,0,0
+QuickSort (19).java,1,0,0,0,0,0,0,0,0
+QuickSort (19).py,1,0,0,0,0,0,0,0,0
+QuickSort (2).java,1,0,0,0,0,0,0,0,0
+quicksort (2).js,1,0,0,0,0,0,0,0,0
+quick-sort (2).js,1,0,0,0,0,0,0,0,0
+QuickSort (2).py,1,0,0,0,0,0,0,0,0
+Quicksort (20).java,1,0,0,0,0,0,0,0,0
+QuickSort (20).py,1,0,0,0,0,0,0,0,0
+QuickSort (21).java,1,0,0,0,0,0,0,0,0
+quicksort (21).py,1,0,0,0,0,0,0,0,0
+QuickSort (22).java,1,0,0,0,0,0,0,0,0
+quicksort (22).py,1,0,0,0,0,0,0,0,0
+QuickSort (23).java,1,0,0,0,0,0,0,0,0
+QuickSort (23).py,1,0,0,0,0,0,0,0,0
+QuickSort (24).java,1,0,0,0,0,0,0,0,0
+quicksort (24).py,1,0,0,0,0,0,0,0,0
+QuickSort (25).java,1,0,0,0,0,0,0,0,0
+quicksort (25).py,1,0,0,0,0,0,0,0,0
+QuickSort (26).java,1,0,0,0,0,0,0,0,0
+QuickSort (26).py,1,0,0,0,0,0,0,0,0
+QuickSort (27).java,1,0,0,0,0,0,0,0,0
+quickSort (27).py,1,0,0,0,0,0,0,0,0
+QuickSort (28).java,1,0,0,0,0,0,0,0,0
+quickSort (28).py,1,0,0,0,0,0,0,0,0
+QuickSort (29).java,1,0,0,0,0,0,0,0,0
+QuickSort (3).java,1,0,0,0,0,0,0,0,0
+quickSort (3).js,1,0,0,0,0,0,0,0,0
+quick-sort (3).js,1,0,0,0,0,0,0,0,0
+QuickSort (30).java,1,0,0,0,0,0,0,0,0
+QuickSort (32).java,1,0,0,0,0,0,0,0,0
+QuickSort (33).java,1,0,0,0,0,0,0,0,0
+QuickSort (34).java,1,0,0,0,0,0,0,0,0
+QuickSort (37).java,0,0,0,0,0,0,0,0,0
+QuickSort (38).java,1,0,0,0,0,0,0,0,0
+quickSort (4).js,1,0,0,0,0,0,0,0,0
+quick-sort (4).js,1,0,0,0,0,0,0,0,0
+QuickSort (4).py,1,0,0,0,0,0,0,0,0
+QuickSort (40).java,1,0,0,0,0,0,0,0,0
+QuickSort (41).java,1,0,0,0,0,0,0,0,0
+QuickSort (42).java,1,0,0,0,0,0,0,0,0
+quickSort (43).java,1,0,0,0,0,0,0,0,0
+QuickSort (44).java,1,0,0,0,0,0,0,0,0
+QuickSort (45).java,1,0,0,0,0,0,0,0,0
+QuickSort (46).java,1,0,0,0,0,0,0,0,0
+QuickSort (47).java,1,0,0,0,0,0,0,0,0
+QuickSort (48).java,1,0,0,0,0,0,0,0,0
+QuickSort (5).java,1,0,0,0,0,0,0,0,0
+quickSort (5).js,1,0,0,0,0,0,0,0,0
+quick-sort (5).js,1,0,0,0,0,0,0,0,0
+quicksort (5).py,1,0,0,0,0,0,0,0,0
+QuickSort (50).java,1,0,0,0,0,0,0,0,0
+QuickSort (51).java,1,0,0,0,0,0,0,0,0
+QuickSort (52).java,1,0,0,0,0,0,0,0,0
+Quicksort (53).java,1,0,0,0,0,0,0,0,0
+QuickSort (54).java,1,0,0,0,0,0,0,0,0
+QuickSort (55).java,1,0,0,0,0,0,0,0,0
+QuickSort (56).java,1,0,0,0,0,0,0,0,0
+QuickSort (57).java,1,0,0,0,0,0,0,0,0
+QuickSort (6).java,1,0,0,0,0,0,0,0,0
+QuickSort (6).js,1,0,0,0,0,0,0,0,0
+quicksort (6).py,1,0,0,0,0,0,0,0,0
+Quicksort (7).java,1,0,0,0,0,0,0,0,0
+QuickSort (7).js,1,0,0,0,0,0,0,0,0
+quicksort (7).py,1,0,0,0,0,0,0,0,0
+Quicksort (8).java,1,0,0,0,0,0,0,0,0
+quickSort (8).js,1,0,0,0,0,0,0,0,0
+QuickSort (8).py,1,0,0,0,0,0,0,0,0
+QuickSort (9).java,1,0,0,0,0,0,0,0,0
+quickSort (9).js,1,0,0,0,0,0,0,0,0
+quickSort (9).py,1,0,0,0,0,0,0,0,0
+quicksort.es6.js,1,0,0,0,0,0,0,0,0
+QuickSort.java,1,0,0,0,0,0,0,0,0
+quicksort.js,1,0,0,0,0,0,0,0,0
+quick-sort.js,1,0,0,0,0,0,0,0,0
+quicksort.py,1,0,0,0,0,0,0,0,0
+Quicksort2.java,1,0,0,0,0,0,0,0,0
+quicksort2.py,1,0,0,0,0,0,0,0,0
+quicksort3.py,1,0,0,0,0,0,0,0,0
+QuickSortArrayList.java,1,0,0,0,0,0,0,0,0
+QuickSortClass.java,1,0,0,0,0,0,0,0,0
+QuickSortClassic.java,1,0,0,0,0,0,0,0,0
+quicksort-counters.es6.js,1,0,0,0,0,0,0,0,0
+QuickSortDoubleEnded.java,1,0,0,0,0,0,0,0,0
+QuickSorter (2).java,1,0,0,0,0,0,0,0,0
+QuickSorter.java,1,0,0,0,0,0,0,0,0
+QuicksortImproved.java,1,0,0,0,0,0,0,0,0
+QuickSortIterative (2).java,1,0,0,0,0,0,0,0,0
+QuickSort-Javascript.js,1,0,0,0,0,0,0,0,0
+QuickSortMedian.java,1,0,0,0,0,0,0,0,0
+QuickSortMedianOfThree.java,1,0,0,0,0,0,0,0,0
+QuicksortSimple.java,1,0,0,0,0,0,0,0,0
+quick-sort-simple.js,1,0,0,0,0,0,0,0,0
+QuickSortSliding.java,1,0,0,0,0,0,0,0,0
+QuicksortVariant1.java,1,0,0,0,0,0,0,0,0
+QuicksortVariant2.java,1,0,0,0,0,0,0,0,0
+quickv2sort.js,1,0,0,0,0,0,0,0,0
+random_normal_distribution_quicksort (3).py,1,0,0,0,0,0,0,0,0
+random_normal_distribution_quicksort.py,1,0,0,0,0,0,0,0,0
+random_pivot_quick_sort (2).py,1,0,0,0,0,0,0,0,0
+Sort (2).java,1,0,0,0,0,0,0,0,0
+Sort.java,1,1,0,1,0,0,0,0,0
+sorting.py,1,1,0,0,1,0,0,0,0
+sorting-algorithms.py,0,0,1,1,1,0,0,0,0
+ThreeWayQuickSort (2).java,1,0,0,0,0,0,0,0,0
